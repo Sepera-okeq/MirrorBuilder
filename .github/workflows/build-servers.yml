@@ -7,7 +7,7 @@ on:
           default: 'false'
 
 env:
-  LAUNCHER_VERSION: 5.6.x
+  LAUNCHER_VERSION: 5.4.x
   GH_TOKEN: ${{ github.token }}
   META_URL: "${{ secrets.S3_ENDPOINT }}/${{ secrets.S3_BUCKET }}/meta/v1/servers-meta.zip"
 
