@@ -2,6 +2,8 @@
 
 MirrorBuilder is a repository containing scripts and CI pipelines for building Minecraft clients from MultiMC compatible metadata. Additionally, it includes important tweaks to ensure compatibility with the GraivtLauncher project.
 
+
+
 ## Local Build Instructions
 
 To build the Minecraft client locally using MirrorBuilder, follow these steps:
